@@ -5,15 +5,21 @@
 
 ## **Índice**
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Tecnologías Usadas](#tecnologías-usadas)
-3. [Instalación](#instalación)
-4. [Funcionalidades](#funcionalidades)
-5. [Pruebas Realizadas](#pruebas-realizadas)
-6. [Estructura del Proyecto](#estructura-del-proyecto)
-7. [Cómo Contribuir](#cómo-contribuir)
-8. [Vías Futuras](#vías-futuras)
-9. [Licencia](#licencia)
+- [**StockIt: Sistema de Gestión de Inventarios para PYMEs**](#stockit-sistema-de-gestión-de-inventarios-para-pymes)
+  - [**Índice**](#índice)
+  - [**Descripción del Proyecto**](#descripción-del-proyecto)
+    - [**Objetivo del Proyecto**](#objetivo-del-proyecto)
+    - [**Motivación**](#motivación)
+  - [**Tecnologías Usadas**](#tecnologías-usadas)
+  - [**Instalación**](#instalación)
+    - [**Requisitos Previos**](#requisitos-previos)
+    - [**Pasos para la instalación**](#pasos-para-la-instalación)
+  - [**Funcionalidades**](#funcionalidades)
+  - [**Pruebas Realizadas**](#pruebas-realizadas)
+  - [**Estructura del Proyecto**](#estructura-del-proyecto)
+  - [**Cómo Contribuir**](#cómo-contribuir)
+  - [**Vías Futuras**](#vías-futuras)
+  - [**Licencia**](#licencia)
 
 ---
 
@@ -65,7 +71,7 @@ Muchas pequeñas empresas gestionan su inventario de manera manual, usando hojas
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/StockIt.git
+   git clone https://github.com/ManRio/StockIt.git
    cd StockIt
    ```
 
